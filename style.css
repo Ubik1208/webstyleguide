@@ -55,9 +55,6 @@ a:hover{
     margin: 15px auto;
     color: #fff;
 }
-#colors{
-
-}
 
 #purple{
     background-color: #d1318a;
@@ -86,10 +83,7 @@ a:hover{
     width: 30%;
     margin: auto;
 }
-#fonts{
 
-
-}
 .play p{
     font-family: 'Play', sans-serif;
 }
